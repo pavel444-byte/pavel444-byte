@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @pavel444-byte
-- 👀 I’m interested in python, and bots
-- 😄 Pronouns: master in python
+I'm making a services
+- using opencode
+- Interested in python, AI
+- I maked YourAnki and Anychat 
 
 
 <!---
